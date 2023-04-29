@@ -6,7 +6,6 @@ def sorteia():
     for c in range(5):
         valor = randint(1, 100)
         valores.append(valor)
-
 def somapares():
     pares = 0
     sorteia()
