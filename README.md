@@ -1,4 +1,4 @@
-# Cursoemvideo curso <span style="color: cyan">Udemy</span>
+# Cursoemvideo curso
 Nesse repositório irei guardar meus estudos do curso de Python (do <span style="color: cyan">canal cursoemvideo</span>) do professor Gustavo Guanabara.
 
 ### Link: <a href="https://www.cursoemvideo.com/" target="_blank" style="text-decoration: none; color: cyan;">Ir para o cursoemvideo.</a> 
