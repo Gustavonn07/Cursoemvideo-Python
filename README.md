@@ -9,7 +9,7 @@ Nesse repositório irei guardar meus estudos do curso de Python (do <span style=
   
 ## Objetivo:
 - Finalizar o curso dentro do periodo de 6 meses (Curso iniciado em 07/03/2023) (Curso finalizado em 30/04/2023). ✔️
-- Conseguir entender desde o basico de <span style="font-weight: 600">Python</span>. ✔️
+- Conseguir entender o basico de <span style="font-weight: 600">Python</span>. ✔️
 - Completar todas as aulas e exercícios. ✔️
 - <span style="color: crimson">Não</span> desistir no processo. ✔️
 - Unidades concluidas <span style="color: green">(3/3)</span>. ✔️
